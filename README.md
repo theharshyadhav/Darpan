@@ -14,8 +14,8 @@ Built for the YouCam API Skin AI & eCommerce VTO Hackathon 2026. Next.js 16, Rea
 - **Read a bottle.** One camera frame to a vision model to read a label, only after you allow it.
 - **Three languages.** English, Hindi (Devanagari) and Hinglish, for the screen and for the mirror's voice.
 
-## Run it in two minutes (no keys)
-
+## How to Run
+   Add YouCam API in env file.
 ```bash
 npm install
 npm run dev          # http://localhost:3000
